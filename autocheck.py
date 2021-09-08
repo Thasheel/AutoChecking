@@ -11,6 +11,6 @@ for line in fp:
     if words[1]=="O":
         others.write(line)
 
-        
+fp.close()
 
 
